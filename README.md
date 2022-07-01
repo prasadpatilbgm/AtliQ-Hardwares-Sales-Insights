@@ -1,2 +1,2 @@
 # AtliQ-Hardwares-Sales-Insights
-Sales Insights depicted using Tableau Desktop.
+Sales Insights depicted in a dashboard using Tableau Desktop.
